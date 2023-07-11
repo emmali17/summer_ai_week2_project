@@ -1,0 +1,4 @@
+The biggest challenge I faced was separating the coded game from the search problem. 
+I also struggled with incorporating the set of directions the pacman would use to traverse the maze.
+In addition to just the node I realized that you need to keep track of direction.
+I was able to overcome these challenges by looking at the search tree diagrams in the slides and relating it to the pseudocode.
